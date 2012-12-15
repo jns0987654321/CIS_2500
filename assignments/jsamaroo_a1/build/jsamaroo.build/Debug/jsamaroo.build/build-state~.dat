@@ -1,0 +1,76 @@
+Tjsamaroo
+v7
+r0
+t286173755.660575
+cCheck dependencies
+cCompileC build/jsamaroo.build/Debug/jsamaroo.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Desktop/jsamaroo/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/juniorsamaroo/Desktop/jsamaroo/build/Debug/jsamaroo normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/juniorsamaroo/Desktop/jsamaroo/build/Debug/jsamaroo
+t1264480955
+s14856
+
+N/Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/Objects-normal/x86_64/jsamaroo.LinkFileList
+c000000004B5E72BB000000000000006D
+t1264480955
+s109
+
+N/Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/Objects-normal/x86_64/main.o
+t1264480955
+s9824
+
+N/Users/juniorsamaroo/Desktop/jsamaroo/main.c
+c000000004B5E72BB0000000000000BB9
+t1264480955
+s3001
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286173755#286173755#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/jsamaroo.build/Debug/jsamaroo.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Desktop/jsamaroo/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s286173755.608627
+e286173755.628401
+r1
+xCompileC
+xbuild/jsamaroo.build/Debug/jsamaroo.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Desktop/jsamaroo/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/juniorsamaroo/Desktop/jsamaroo/main.c286173755#286173755#0(0"0(0#0#44"/Users/juniorsamaroo/Desktop/jsamaroo/main.c4300885448#1277"    cd /Users/juniorsamaroo/Desktop/jsamaroo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/jsamaroo-generated-files.hmap -I/Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/jsamaroo-own-target-headers.hmap -I/Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/jsamaroo-all-target-headers.hmap -iquote /Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/jsamaroo-project-headers.hmap -F/Users/juniorsamaroo/Desktop/jsamaroo/build/Debug -I/Users/juniorsamaroo/Desktop/jsamaroo/build/Debug/include -I/Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/DerivedSources/x86_64 -I/Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/DerivedSources -c /Users/juniorsamaroo/Desktop/jsamaroo/main.c -o /Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/juniorsamaroo/Desktop/jsamaroo/build/Debug/jsamaroo normal x86_64
+s286173755.628474
+e286173755.660523
+r1
+xLd
+x/Users/juniorsamaroo/Desktop/jsamaroo/build/Debug/jsamaroo
+xnormal
+xx86_64
+lSLF07#2@63"Link /Users/juniorsamaroo/Desktop/jsamaroo/build/Debug/jsamaroo286173755#286173755#0(0"0(0#0#0"4300885448#497"    cd /Users/juniorsamaroo/Desktop/jsamaroo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Desktop/jsamaroo/build/Debug -F/Users/juniorsamaroo/Desktop/jsamaroo/build/Debug -filelist /Users/juniorsamaroo/Desktop/jsamaroo/build/jsamaroo.build/Debug/jsamaroo.build/Objects-normal/x86_64/jsamaroo.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Desktop/jsamaroo/build/Debug/jsamaroo0#
+

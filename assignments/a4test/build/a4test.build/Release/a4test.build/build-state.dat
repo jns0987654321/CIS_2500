@@ -1,0 +1,169 @@
+Ta4test
+v7
+r0
+t290723428.769960
+cCheck dependencies
+cCompileC build/a4test.build/Release/a4test.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/a4test.build/Release/a4test.build/Objects-normal/i386/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/a4test normal x86_64
+cLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/a4test normal i386
+cCompileC build/a4test.build/Release/a4test.build/Objects-normal/ppc/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c normal ppc c com.apple.compilers.gcc.4_2
+cLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/a4test normal ppc
+cCreateUniversalBinary /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test.dSYM /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test
+t1269030628
+s37468
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test.dSYM
+t1269030628
+s102
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/a4test
+t1269030627
+s8944
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/a4test.LinkFileList
+c000000004BA3DEE20000000000000090
+t1269030626
+s144
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/main.o
+t1269030626
+s2208
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/a4test
+t1269030628
+s8796
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/a4test.LinkFileList
+c000000004BA3DEE2000000000000008F
+t1269030626
+s143
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/main.o
+t1269030627
+s2344
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/a4test
+t1269030626
+s9024
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/a4test.LinkFileList
+c000000004BA3DEE20000000000000092
+t1269030626
+s146
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/main.o
+t1269030626
+s2812
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c
+c000000004BA3DED00000000000000089
+t1269030608
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290723426#290723426#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/a4test.build/Release/a4test.build/Objects-normal/i386/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c normal i386 c com.apple.compilers.gcc.4_2
+s290723426.821878
+e290723426.985576
+r1
+xCompileC
+xbuild/a4test.build/Release/a4test.build/Objects-normal/i386/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723426#290723426#0(0"0(0#0#83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c4300885448#1700"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/DerivedSources/i386 -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/main.o0#
+
+CCompileC build/a4test.build/Release/a4test.build/Objects-normal/ppc/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c normal ppc c com.apple.compilers.gcc.4_2
+s290723427.000201
+e290723428.066741
+r1
+xCompileC
+xbuild/a4test.build/Release/a4test.build/Objects-normal/ppc/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723427#290723428#0(0"0(0#0#83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c4300885448#1694"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/DerivedSources/ppc -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/a4test.build/Release/a4test.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s290723426.820696
+e290723426.947095
+r1
+xCompileC
+xbuild/a4test.build/Release/a4test.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723426#290723426#0(0"0(0#0#83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c4300885448#1706"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/a4test-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/DerivedSources/x86_64 -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/main.o0#
+
+CCreateUniversalBinary /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test normal "x86_64 i386 ppc"
+s290723428.577792
+e290723428.664221
+r1
+xCreateUniversalBinary
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@67"CreateUniversalBinary build/Release/a4test normal "x86_64 i386 ppc"290723428#290723428#0(0"0(0#0#92"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/x86_64 i386 ppc4300885448#649"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test    /usr/bin/lipo -create /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/a4test /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/a4test /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/a4test -output /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test0#
+
+CGenerateDSYMFile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test.dSYM /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test
+s290723428.664326
+e290723428.769901
+r1
+xGenerateDSYMFile
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test.dSYM
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test
+lSLF07#2@63"GenerateDSYMFile build/Release/a4test.dSYM build/Release/a4test290723428#290723428#0(0"0(0#0#97"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test4300885448#320"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test    /Developer/usr/bin/dsymutil /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release/a4test.dSYM0#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/a4test normal i386
+s290723426.985679
+e290723427.243447
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/a4test
+xnormal
+xi386
+lSLF07#2@148"Link /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/a4test290723426#290723427#0(0"0(0#0#0"4300885448#734"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release -filelist /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/a4test.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/i386/a4test0#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/a4test normal ppc
+s290723428.066847
+e290723428.577578
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/a4test
+xnormal
+xppc
+lSLF07#2@147"Link /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/a4test290723428#290723428#0(0"0(0#0#0"4300885448#731"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release -filelist /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/a4test.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/ppc/a4test0#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/a4test normal x86_64
+s290723426.947195
+e290723427.000092
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/a4test
+xnormal
+xx86_64
+lSLF07#2@150"Link /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/a4test290723426#290723427#0(0"0(0#0#0"4300885448#740"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Release -filelist /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/a4test.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Release/a4test.build/Objects-normal/x86_64/a4test0#
+

@@ -1,0 +1,56 @@
+Tlab31
+v7
+r0
+t286237346.449867
+cCheck dependencies
+cCompileC build/lab31.build/Debug/lab31.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/Debug/lab31
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/lab31.build/Debug/lab31.build/Objects-normal/x86_64/lab31.LinkFileList
+c000000004B5F6B220000000000000089
+t1264544546
+s137
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/lab31.build/Debug/lab31.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c
+c000000004B5F6B2200000000000001CB
+t1264544546
+s459
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286237346#286237346#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/lab31.build/Debug/lab31.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286237346.423903
+e286237346.449801
+r0
+xCompileC
+xbuild/lab31.build/Debug/lab31.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#286237346#0(1264"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c: In function 'main':/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c:7: warning: implicit declaration of function 'malloc'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c:7: warning: incompatible implicit declaration of built-in function 'malloc'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c:7: warning: assignment makes integer from pointer without a cast/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c:9: error: expected ')' before numeric constant/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c:9: error: expected ')' before ';' token/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c:27: warning: assignment makes integer from pointer without a cast/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c:27: error: expected ';' before '}' token/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c:5: warning: unused variable 'j'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c:5: warning: unused variable 'i'9(22@41"Implicit declaration of function 'malloc'286237346#100#133#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#7#0#7#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'malloc'286237346#233#155#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#7#0#7#0#0"0(22@52"Assignment makes integer from pointer without a cast286237346#388#144#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#7#0#7#0#0"0(4@36"Expected ')' before numeric constant286237346#532#126#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#9#0#9#0#19"expected * before *0(4@29"Expected ')' before ';' token286237346#658#119#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#9#0#9#0#19"expected * before *0(22@52"Assignment makes integer from pointer without a cast286237346#777#145#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#27#0#27#0#0"0(4@29"Expected ';' before '}' token286237346#922#120#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#27#0#27#0#19"expected * before *0(22@19"Unused variable 'j'286237346#1042#111#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#5#0#5#0#19"unused variable '*'0(22@19"Unused variable 'i'286237346#1153#111#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c286237346#5#0#5#0#19"unused variable '*'0(0#0#78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c7882833305743012864#1619"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/lab31.build/Debug/lab31.build/lab31-generated-files.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/lab31.build/Debug/lab31.build/lab31-own-target-headers.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/lab31.build/Debug/lab31.build/lab31-all-target-headers.hmap" -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/lab31.build/Debug/lab31.build/lab31-project-headers.hmap" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/Debug" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/Debug/include" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/lab31.build/Debug/lab31.build/DerivedSources/x86_64" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/lab31.build/Debug/lab31.build/DerivedSources" -c "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/main.c" -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/lab31.build/Debug/lab31.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab31/build/Debug/lab31" normal x86_64
+r0
+

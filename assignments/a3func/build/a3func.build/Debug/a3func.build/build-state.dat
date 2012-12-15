@@ -1,0 +1,82 @@
+Ta3func
+v7
+r0
+t290044902.213437
+cCheck dependencies
+cCompileC build/a3func.build/Debug/a3func.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug/a3func normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug/a3func
+t1268294451
+s14200
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/Objects-normal/x86_64/a3func.LinkFileList
+c000000004B989FAB0000000000000090
+t1268293547
+s144
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/Objects-normal/x86_64/main.o
+t1268294451
+s9496
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/main.c
+c000000004B98A3320000000000000C34
+t1268294450
+s3124
+i<stdio.h>
+i<stdlib.h>
+i<ctype.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290044902#290044902#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/a3func.build/Debug/a3func.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s289987251.218015
+e289987251.276627
+r1
+xCompileC
+xbuild/a3func.build/Debug/a3func.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/main.c289987251#289987251#0(0"0(0#0#83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/main.c4300885448#1670"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/a3func-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/a3func-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/a3func-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/a3func-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/DerivedSources/x86_64 -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug/a3func normal x86_64
+s289987251.276700
+e289987251.323466
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug/a3func
+xnormal
+xx86_64
+lSLF07#2@100"Link /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug/a3func289987251#289987251#0(0"0(0#0#0"4300885448#684"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug -filelist /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/a3func.build/Debug/a3func.build/Objects-normal/x86_64/a3func.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3func/build/Debug/a3func0#
+

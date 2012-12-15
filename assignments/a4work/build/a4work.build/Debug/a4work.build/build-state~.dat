@@ -1,0 +1,76 @@
+Ta4work
+v7
+r0
+t290822919.685797
+cCheck dependencies
+cCompileC build/a4work.build/Debug/a4work.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug/a4work normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug/a4work
+t1269130119
+s10008
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/Objects-normal/x86_64/a4work.LinkFileList
+c000000004BA563870000000000000090
+t1269130119
+s144
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/Objects-normal/x86_64/main.o
+t1269130119
+s7768
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/main.c
+c000000004BA563870000000000000B1D
+t1269130119
+s2845
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290822919#290822919#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/a4work.build/Debug/a4work.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s290822919.535057
+e290822919.582396
+r1
+xCompileC
+xbuild/a4work.build/Debug/a4work.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/main.c290822919#290822919#0(0"0(0#0#83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/main.c4300885448#1670"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/a4work-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/a4work-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/a4work-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/a4work-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/DerivedSources/x86_64 -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug/a4work normal x86_64
+s290822919.582478
+e290822919.685506
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug/a4work
+xnormal
+xx86_64
+lSLF07#2@100"Link /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug/a4work290822919#290822919#0(0"0(0#0#0"4300885448#684"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug -filelist /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/a4work.build/Debug/a4work.build/Objects-normal/x86_64/a4work.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4work/build/Debug/a4work0#
+

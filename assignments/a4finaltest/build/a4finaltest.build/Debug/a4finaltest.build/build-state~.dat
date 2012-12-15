@@ -1,0 +1,76 @@
+Ta4finaltest
+v7
+r0
+t292140355.593137
+cCheck dependencies
+cCompileC build/a4finaltest.build/Debug/a4finaltest.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug/a4finaltest normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug/a4finaltest
+t1270447555
+s10336
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/Objects-normal/x86_64/a4finaltest.LinkFileList
+c000000004BB97DC3000000000000009F
+t1270447555
+s159
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/Objects-normal/x86_64/main.o
+t1270447555
+s9000
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/main.c
+c000000004BB97DC3000000000000158C
+t1270447555
+s5516
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292140355#292140355#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/a4finaltest.build/Debug/a4finaltest.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s292140355.411668
+e292140355.523177
+r1
+xCompileC
+xbuild/a4finaltest.build/Debug/a4finaltest.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/main.c292140355#292140355#0(0"0(0#0#88"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/main.c4300885448#1815"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/a4finaltest-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/a4finaltest-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/a4finaltest-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/a4finaltest-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/DerivedSources/x86_64 -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug/a4finaltest normal x86_64
+s292140355.523461
+e292140355.593086
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug/a4finaltest
+xnormal
+xx86_64
+lSLF07#2@110"Link /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug/a4finaltest292140355#292140355#0(0"0(0#0#0"4300885448#729"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug -filelist /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/a4finaltest.build/Debug/a4finaltest.build/Objects-normal/x86_64/a4finaltest.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4finaltest/build/Debug/a4finaltest0#
+

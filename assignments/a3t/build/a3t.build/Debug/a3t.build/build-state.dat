@@ -1,0 +1,82 @@
+Ta3t
+v7
+r0
+t289986196.556412
+cCheck dependencies
+cCompileC build/a3t.build/Debug/a3t.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug/a3t normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug/a3t
+t1268293396
+s14192
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/Objects-normal/x86_64/a3t.LinkFileList
+c000000004B7F312F0000000000000087
+t1266626863
+s135
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/Objects-normal/x86_64/main.o
+t1268293387
+s9512
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/main.c
+c000000004B989F110000000000000C3B
+t1268293393
+s3131
+i<stdio.h>
+i<stdlib.h>
+i<ctype.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289986196#289986196#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/a3t.build/Debug/a3t.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s289986196.388677
+e289986196.389781
+r1
+xCompileC
+xbuild/a3t.build/Debug/a3t.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/main.c289986196#289986196#0(0"0(0#0#80"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/main.c4300885448#1583"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/a3t-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/a3t-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/a3t-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/a3t-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/DerivedSources/x86_64 -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug/a3t normal x86_64
+s289986196.389846
+e289986196.556335
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug/a3t
+xnormal
+xx86_64
+lSLF07#2@94"Link /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug/a3t289986196#289986196#0(0"0(0#0#0"4300885448#657"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug -filelist /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/a3t.build/Debug/a3t.build/Objects-normal/x86_64/a3t.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3t/build/Debug/a3t0#
+

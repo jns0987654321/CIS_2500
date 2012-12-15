@@ -1,0 +1,101 @@
+Ta1t
+v7
+r0
+t286174937.443996
+cCheck dependencies
+cCompileC build/a1t.build/Debug/a1t.build/Objects-normal/x86_64/a1test.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/../../../../../../Desktop/a1test.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug/a1t" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/../../../../../../Desktop/a1test.c
+c000000004B5E6CDF00000000000009C8
+t1264479455
+s2504
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug/a1t
+t1264479455
+s14936
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/Objects-normal/x86_64/a1t.LinkFileList
+c000000004B5E5B530000000000000085
+t1264474963
+s133
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/Objects-normal/x86_64/a1test.o
+t1264479455
+s9944
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/Objects-normal/x86_64/main.o
+t1264468074
+s9880
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/main.c
+c000000004B5E406A00000000000009D8
+t1264468074
+s2520
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286174937#286174937#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/a1t.build/Debug/a1t.build/Objects-normal/x86_64/a1test.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/../../../../../../Desktop/a1test.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286172255.642024
+e286172255.700875
+r1
+xCompileC
+xbuild/a1t.build/Debug/a1t.build/Objects-normal/x86_64/a1test.o
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/../../../../../../Desktop/a1test.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/../../../../../../Desktop/a1test.c286172255#286172255#0(0"0(0#0#104"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/../../../../../../Desktop/a1test.c4300885448#1591"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/a1t-generated-files.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/a1t-own-target-headers.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/a1t-all-target-headers.hmap" -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/a1t-project-headers.hmap" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug/include" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/DerivedSources/x86_64" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/DerivedSources" -c "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/../../../../../../Desktop/a1test.c" -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/Objects-normal/x86_64/a1test.o"0#
+
+CCompileC build/a1t.build/Debug/a1t.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286160874.931236
+e286160874.991894
+r1
+xCompileC
+xbuild/a1t.build/Debug/a1t.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/main.c286160874#286160875#0(0"0(0#0#76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/main.c4300885448#1561"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/a1t-generated-files.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/a1t-own-target-headers.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/a1t-all-target-headers.hmap" -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/a1t-project-headers.hmap" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug/include" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/DerivedSources/x86_64" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/DerivedSources" -c "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/main.c" -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug/a1t" normal x86_64
+s286172255.700955
+e286172255.724711
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug/a1t
+xnormal
+xx86_64
+lSLF07#2@90"Link /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug/a1t286172255#286172255#0(0"0(0#0#0"4300885448#647"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug" -filelist "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/a1t.build/Debug/a1t.build/Objects-normal/x86_64/a1t.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1t/build/Debug/a1t"0#
+

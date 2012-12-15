@@ -1,0 +1,56 @@
+Tl51
+v7
+r0
+t287469893.257483
+cCheck dependencies
+cCompileC build/l51.build/Debug/l51.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/Debug/l51
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/l51.build/Debug/l51.build/Objects-normal/x86_64/l51.LinkFileList
+c000000004B7239C50000000000000083
+t1265777093
+s131
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/l51.build/Debug/l51.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c
+c000000004B7239C50000000000000107
+t1265777093
+s263
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287469893#287469893#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/l51.build/Debug/l51.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s287469893.241364
+e287469893.257422
+r0
+xCompileC
+xbuild/l51.build/Debug/l51.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c287469893#287469893#0(1196"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c: In function 'main':/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c:6: warning: implicit declaration of function 'malloc'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c:6: warning: incompatible implicit declaration of built-in function 'malloc'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c:7: warning: implicit declaration of function 'strcpy'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c:7: warning: incompatible implicit declaration of built-in function 'strcpy'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c:10: warning: implicit declaration of function 'realloc'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c:10: warning: implicit declaration of function 'size0f'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c:10: error: expected expression before 'char'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c:10: warning: assignment makes pointer from integer without a cast8(22@41"Implicit declaration of function 'malloc'287469893#98#131#0(6@76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c287469893#6#0#6#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'malloc'287469893#229#153#0(6@76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c287469893#6#0#6#0#0"0(22@41"Implicit declaration of function 'strcpy'287469893#382#131#0(6@76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c287469893#7#0#7#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'strcpy'287469893#513#153#0(6@76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c287469893#7#0#7#0#0"0(22@42"Implicit declaration of function 'realloc'287469893#666#133#0(6@76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c287469893#10#0#10#0#36"implicit declaration of function '*'0(22@41"Implicit declaration of function 'size0f'287469893#799#132#0(6@76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c287469893#10#0#10#0#36"implicit declaration of function '*'0(4@33"Expected expression before 'char'287469893#931#122#0(6@76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c287469893#10#0#10#0#19"expected * before *0(22@52"Assignment makes pointer from integer without a cast287469893#1053#143#0(6@76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c287469893#10#0#10#0#0"0(0#0#76"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c4300885448#1561"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/l51.build/Debug/l51.build/l51-generated-files.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/l51.build/Debug/l51.build/l51-own-target-headers.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/l51.build/Debug/l51.build/l51-all-target-headers.hmap" -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/l51.build/Debug/l51.build/l51-project-headers.hmap" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/Debug" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/Debug/include" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/l51.build/Debug/l51.build/DerivedSources/x86_64" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/l51.build/Debug/l51.build/DerivedSources" -c "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/main.c" -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/l51.build/Debug/l51.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/l51/build/Debug/l51" normal x86_64
+r0
+

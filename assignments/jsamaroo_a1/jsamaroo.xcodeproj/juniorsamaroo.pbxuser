@@ -1,0 +1,132 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 52C44D06110EAA2B00E13CCD /* jsamaroo */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* jsamaroo */;
+		addToTargets = (
+			8DD76FA90486AB0100D96B5E /* jsamaroo */,
+		);
+		codeSenseManager = 52C44D11110EAA6600E13CCD /* Code sense */;
+		executables = (
+			52C44D06110EAA2B00E13CCD /* jsamaroo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289951937;
+			PBXWorkspaceStateSaveDate = 289951937;
+		};
+		perUserProjectItems = {
+			5218C5B4114851BB0006A2D6 /* PBXTextBookmark */ = 5218C5B4114851BB0006A2D6 /* PBXTextBookmark */;
+			52FFA7841128A2FA00D3734B /* PBXTextBookmark */ = 52FFA7841128A2FA00D3734B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 52C44D10110EAA6600E13CCD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* jsamaroo.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 2223}}";
+			sepNavSelRange = "{539, 0}";
+			sepNavVisRange = "{3208, 459}";
+		};
+	};
+	5218C5B4114851BB0006A2D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* jsamaroo.c */;
+		name = "jsamaroo.c: 22";
+		rLen = 0;
+		rLoc = 539;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 3208;
+	};
+	52C44D06110EAA2B00E13CCD /* jsamaroo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = jsamaroo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	52C44D10110EAA6600E13CCD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	52C44D11110EAA6600E13CCD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	52C44D53110EAF8700E13CCD /* makefile */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 394}}";
+			sepNavSelRange = "{60, 0}";
+			sepNavVisRange = "{0, 60}";
+		};
+	};
+	52FFA7841128A2FA00D3734B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* jsamaroo.c */;
+		name = "jsamaroo.c: 22";
+		rLen = 0;
+		rLoc = 539;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 777;
+	};
+	8DD76FA90486AB0100D96B5E /* jsamaroo */ = {
+		activeExec = 0;
+		executables = (
+			52C44D06110EAA2B00E13CCD /* jsamaroo */,
+		);
+	};
+}

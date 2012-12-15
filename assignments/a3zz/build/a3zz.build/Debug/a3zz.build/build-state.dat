@@ -1,0 +1,82 @@
+Ta3zz
+v7
+r0
+t289970356.538775
+cCheck dependencies
+cCompileC build/a3zz.build/Debug/a3zz.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug/a3zz normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004A5C14A60000000000002C18
+t1247548582
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug/a3zz
+t1268277556
+s10016
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/Objects-normal/x86_64/a3zz.LinkFileList
+c000000004B981DBA000000000000008A
+t1268260282
+s138
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/Objects-normal/x86_64/main.o
+t1268277556
+s8160
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c
+c000000004B9864E00000000000000E3A
+t1268278496
+s3642
+i<stdio.h>
+i<stdlib.h>
+i<ctype.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289970356#289970356#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/a3zz.build/Debug/a3zz.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s289970356.392196
+e289970356.458096
+r1
+xCompileC
+xbuild/a3zz.build/Debug/a3zz.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c289970356#289970356#0(225"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c: In function 'main':/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c:23: warning: unused variable 'tempName'1(22@26"Unused variable 'tempName'289970356#103#122#0(6@81"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c289970356#23#0#23#0#19"unused variable '*'0(0#0#81"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c4300885448#1612"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/a3zz-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/a3zz-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/a3zz-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/a3zz-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/DerivedSources/x86_64 -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug/a3zz normal x86_64
+s289970356.458177
+e289970356.538721
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug/a3zz
+xnormal
+xx86_64
+lSLF07#2@96"Link /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug/a3zz289970356#289970356#0(0"0(0#0#0"4300885448#666"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug -filelist /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/a3zz.build/Debug/a3zz.build/Objects-normal/x86_64/a3zz.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a3zz/build/Debug/a3zz0#
+

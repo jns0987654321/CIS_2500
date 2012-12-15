@@ -1,0 +1,56 @@
+Tlab32
+v7
+r0
+t286267243.482845
+cCheck dependencies
+cCompileC build/lab32.build/Debug/lab32.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/Debug/lab32
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/lab32.build/Debug/lab32.build/Objects-normal/x86_64/lab32.LinkFileList
+c000000004B5FDFEB0000000000000089
+t1264574443
+s137
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/lab32.build/Debug/lab32.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c
+c000000004B5FDFEB00000000000000E8
+t1264574443
+s232
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286267243#286267243#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/lab32.build/Debug/lab32.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286267243.388360
+e286267243.482783
+r0
+xCompileC
+xbuild/lab32.build/Debug/lab32.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c286267243#286267243#0(903"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c: In function 'main':/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c:8: error: expected ';' before 'char'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c:9: error: 'array' undeclared (first use in this function)/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c:9: error: (Each undeclared identifier is reported only once/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c:9: error: for each function it appears in.)/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c:9: warning: implicit declaration of function 'malloc'/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c:9: warning: incompatible implicit declaration of built-in function 'malloc'4(4@26"Expected ';' before 'char'286267243#100#116#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c286267243#8#0#8#0#19"expected * before *0(4@47"'array' undeclared (first use in this function)286267243#216#137#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c286267243#9#0#9#0#43"'*' undeclared (first use in this function)0(22@41"Implicit declaration of function 'malloc'286267243#615#133#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c286267243#9#0#9#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'malloc'286267243#748#155#0(6@78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c286267243#9#0#9#0#0"0(0#0#78"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c4300885448#1619"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/lab32.build/Debug/lab32.build/lab32-generated-files.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/lab32.build/Debug/lab32.build/lab32-own-target-headers.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/lab32.build/Debug/lab32.build/lab32-all-target-headers.hmap" -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/lab32.build/Debug/lab32.build/lab32-project-headers.hmap" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/Debug" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/Debug/include" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/lab32.build/Debug/lab32.build/DerivedSources/x86_64" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/lab32.build/Debug/lab32.build/DerivedSources" -c "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/main.c" -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/lab32.build/Debug/lab32.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab32/build/Debug/lab32" normal x86_64
+r0
+

@@ -1,0 +1,102 @@
+Ta1
+v7
+r0
+t286057223.114159
+cCheck dependencies
+cCompileC build/a1.build/Debug/a1.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug/a1" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug/a1
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/Objects-normal/x86_64/a1.LinkFileList
+c000000004B5CAB860000000000000080
+t1264364422
+s128
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/Objects-normal/x86_64/main.o
+t1264364422
+s4644
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/main.c
+c000000004B5CAB86000000000000071E
+t1264364422
+s1822
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286057222#286057222#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/a1.build/Debug/a1.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s286057222.646352
+e286057222.687262
+r1
+xCompileC
+xbuild/a1.build/Debug/a1.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/main.c286057222#286057222#0(0"0(0#0#75"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/main.c7020319295437486080#1532"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/a1-generated-files.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/a1-own-target-headers.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/a1-all-target-headers.hmap" -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/a1-project-headers.hmap" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug/include" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/DerivedSources/x86_64" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/DerivedSources" -c "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/main.c" -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug/a1" normal x86_64
+s286057222.687355
+e286057223.114101
+r0
+xLd
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug/a1
+xnormal
+xx86_64
+oUndefined symbols:
+o  "_createStringArray", referenced from:
+o      _main in main.o
+o  "_setStringArray", referenced from:
+o      _main in main.o
+o      _main in main.o
+o  "_get2DElement", referenced from:
+o      _main in main.o
+o  "_getStringArray", referenced from:
+o      _main in main.o
+o      _main in main.o
+o      _main in main.o
+o  "_freeStringArray", referenced from:
+o      _main in main.o
+o  "_create2DArray", referenced from:
+o      _main in main.o
+o  "_set2DElement", referenced from:
+o      _main in main.o
+o  "_free2DArray", referenced from:
+o      _main in main.o
+o  "_freeArray", referenced from:
+o      _main in main.o
+o  "_createArray", referenced from:
+o      _main in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@88"Link /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug/a1286057222#286057223#0(733"Undefined symbols:  "_createStringArray", referenced from:      _main in main.o  "_setStringArray", referenced from:      _main in main.o      _main in main.o  "_get2DElement", referenced from:      _main in main.o  "_getStringArray", referenced from:      _main in main.o      _main in main.o      _main in main.o  "_freeStringArray", referenced from:      _main in main.o  "_create2DArray", referenced from:      _main in main.o  "_set2DElement", referenced from:      _main in main.o  "_free2DArray", referenced from:      _main in main.o  "_freeArray", referenced from:      _main in main.o  "_createArray", referenced from:      _main in main.old: symbol(s) not foundcollect2: ld returned 1 exit status25(4@38""_createStringArray", referenced from:286057223#19#41#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#60#22#0(6@0"286057223#0#0#0#0#0"0(4@35""_setStringArray", referenced from:286057223#82#38#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#120#22#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#142#22#0(6@0"286057223#0#0#0#0#0"0(4@33""_get2DElement", referenced from:286057223#164#36#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#200#22#0(6@0"286057223#0#0#0#0#0"0(4@35""_getStringArray", referenced from:286057223#222#38#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#260#22#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#282#22#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#304#22#0(6@0"286057223#0#0#0#0#0"0(4@36""_freeStringArray", referenced from:286057223#326#39#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#365#22#0(6@0"286057223#0#0#0#0#0"0(4@34""_create2DArray", referenced from:286057223#387#37#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#424#22#0(6@0"286057223#0#0#0#0#0"0(4@33""_set2DElement", referenced from:286057223#446#36#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#482#22#0(6@0"286057223#0#0#0#0#0"0(4@32""_free2DArray", referenced from:286057223#504#35#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#539#22#0(6@0"286057223#0#0#0#0#0"0(4@30""_freeArray", referenced from:286057223#561#33#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#594#22#0(6@0"286057223#0#0#0#0#0"0(4@32""_createArray", referenced from:286057223#616#35#0(6@0"286057223#0#0#0#0#0"0(13@15"_main in main.o286057223#651#22#0(6@0"286057223#0#0#0#0#0"0(13@19"Symbol(s) not found286057223#673#24#0(6@0"286057223#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status286057223#697#36#0(6@0"286057223#0#0#0#0#0"0(0#0#0"4300885448#638"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug" -filelist "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/a1.build/Debug/a1.build/Objects-normal/x86_64/a1.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/a1/build/Debug/a1"1#
+

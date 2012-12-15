@@ -1,0 +1,78 @@
+Ta4zee
+v7
+r0
+t292140110.883730
+cCheck dependencies
+cCompileC build/a4zee.build/Debug/a4zee.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug/a4zee normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug/a4zee
+t1270447310
+s14600
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/Objects-normal/x86_64/a4zee.LinkFileList
+c000000004BA5B032000000000000008D
+t1269149746
+s141
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/Objects-normal/x86_64/main.o
+t1270447310
+s9276
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c
+c000000004BB97CCD00000000000012B3
+t1270447309
+s4787
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292140109#292140109#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/a4zee.build/Debug/a4zee.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s292140109.816447
+e292140110.434824
+r1
+xCompileC
+xbuild/a4zee.build/Debug/a4zee.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c: In function 'removeStruct':
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c:172: warning: assignment makes integer from pointer without a cast
+lSLF07#2@90"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c292140109#292140110#0(262"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c: In function 'removeStruct':/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c:172: warning: assignment makes integer from pointer without a cast1(22@52"Assignment makes integer from pointer without a cast292140110#112#150#0(6@82"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c292140109#172#0#172#0#0"0(0#0#82"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c7310313482417811456#1641"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/a4zee-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/a4zee-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/a4zee-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/a4zee-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/DerivedSources/x86_64 -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug/a4zee normal x86_64
+s292140110.435108
+e292140110.883653
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug/a4zee
+xnormal
+xx86_64
+lSLF07#2@98"Link /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug/a4zee292140110#292140110#0(0"0(0#0#0"26740479274582084#675"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug -filelist /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/a4zee.build/Debug/a4zee.build/Objects-normal/x86_64/a4zee.LinkFileList -mmacosx-version-min=10.6 -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4zee/build/Debug/a4zee0#
+

@@ -1,0 +1,62 @@
+Tlab2q2
+v7
+r0
+t285568160.227194
+cCheck dependencies
+cCompileC build/lab2q2.build/Debug/lab2q2.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/Debug/lab2q2
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/lab2q2.build/Debug/lab2q2.build/Objects-normal/x86_64/lab2q2.LinkFileList
+c000000004B553520000000000000008C
+t1263875360
+s140
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/lab2q2.build/Debug/lab2q2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c
+c000000004B55352000000000000000DF
+t1263875360
+s223
+i<stdio.h>
+i<math.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies285568160#285568160#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/lab2q2.build/Debug/lab2q2.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s285568160.191988
+e285568160.227124
+r0
+xCompileC
+xbuild/lab2q2.build/Debug/lab2q2.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c285568160#285568160#0(222"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c: In function 'main':/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c:17: error: expected ';' before '}' token1(4@29"Expected ';' before '}' token285568160#101#121#0(6@79"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c285568160#17#0#17#0#19"expected * before *0(0#0#79"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c7310594974593414144#1648"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/lab2q2.build/Debug/lab2q2.build/lab2q2-generated-files.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/lab2q2.build/Debug/lab2q2.build/lab2q2-own-target-headers.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/lab2q2.build/Debug/lab2q2.build/lab2q2-all-target-headers.hmap" -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/lab2q2.build/Debug/lab2q2.build/lab2q2-project-headers.hmap" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/Debug" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/Debug/include" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/lab2q2.build/Debug/lab2q2.build/DerivedSources/x86_64" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/lab2q2.build/Debug/lab2q2.build/DerivedSources" -c "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/main.c" -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/lab2q2.build/Debug/lab2q2.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2q2/build/Debug/lab2q2" normal x86_64
+r0
+

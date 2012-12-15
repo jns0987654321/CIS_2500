@@ -1,0 +1,82 @@
+Ta4test
+v7
+r0
+t290723346.465222
+cCheck dependencies
+cCompileC build/a4test.build/Debug/a4test.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Debug/a4test
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Debug/a4test.build/Objects-normal/x86_64/a4test.LinkFileList
+c000000004BA3DE910000000000000090
+t1269030545
+s144
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Debug/a4test.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c
+c000000004BA3DE91000000000000066F
+t1269030545
+s1647
+i"stdio.h"
+i"conio.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290723345#290723345#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/a4test.build/Debug/a4test.build/Objects-normal/x86_64/main.o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s290723345.555480
+e290723346.465070
+r0
+xCompileC
+xbuild/a4test.build/Debug/a4test.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:2:19: error: conio.h: No such file or directory
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c: In function 'main':
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:14: warning: implicit declaration of function 'clrscr'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:17:9: warning: missing terminating " character
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:17: error: missing terminating " character
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:18: error: too few arguments to function 'printf'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:22:13: warning: missing terminating " character
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:22: error: missing terminating " character
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:24: error: too few arguments to function 'printf'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:27: warning: implicit declaration of function 'getch'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:10: warning: return type of 'main' is not 'int'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c: In function 'create':
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:35: warning: implicit declaration of function 'malloc'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:35: warning: incompatible implicit declaration of built-in function 'malloc'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c: In function 'sort':
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:78: warning: implicit declaration of function 'strcpy'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:78: warning: incompatible implicit declaration of built-in function 'strcpy'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97:15: warning: missing terminating ' character
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c: In function 'comp':
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97: error: missing terminating ' character
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97: error: expected expression at end of input
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97: error: expected declaration or statement at end of input
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:95: warning: unused variable 'k'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:95: warning: unused variable 'j'
+o/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97: warning: control reaches end of non-void function
+lSLF07#2@91"Compile /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#290723346#0(3255"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:2:19: error: conio.h: No such file or directory/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c: In function 'main':/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:14: warning: implicit declaration of function 'clrscr'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:17:9: warning: missing terminating " character/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:17: error: missing terminating " character/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:18: error: too few arguments to function 'printf'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:22:13: warning: missing terminating " character/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:22: error: missing terminating " character/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:24: error: too few arguments to function 'printf'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:27: warning: implicit declaration of function 'getch'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:10: warning: return type of 'main' is not 'int'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c: In function 'create':/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:35: warning: implicit declaration of function 'malloc'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:35: warning: incompatible implicit declaration of built-in function 'malloc'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c: In function 'sort':/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:78: warning: implicit declaration of function 'strcpy'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:78: warning: incompatible implicit declaration of built-in function 'strcpy'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97:15: warning: missing terminating ' character/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c: In function 'comp':/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97: error: missing terminating ' character/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97: error: expected expression at end of input/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97: error: expected declaration or statement at end of input/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:95: warning: unused variable 'k'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:95: warning: unused variable 'j'/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c:97: warning: control reaches end of non-void function21(4@34"Conio.h: No such file or directory290723346#0#132#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#2#0#2#0#28"*: No such file or directory0(22@41"Implicit declaration of function 'clrscr'290723346#237#139#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#14#0#14#0#36"implicit declaration of function '*'0(22@31"Missing terminating " character290723346#376#131#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#17#0#17#0#0"0(4@31"Missing terminating " character290723346#507#127#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#17#0#17#0#0"0(4@38"Too few arguments to function 'printf'290723346#634#134#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#18#0#18#0#33"too few arguments to function '*'0(22@31"Missing terminating " character290723346#768#132#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#22#0#22#0#0"0(4@31"Missing terminating " character290723346#900#127#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#22#0#22#0#0"0(4@38"Too few arguments to function 'printf'290723346#1027#134#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#24#0#24#0#33"too few arguments to function '*'0(22@40"Implicit declaration of function 'getch'290723346#1161#138#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#27#0#27#0#36"implicit declaration of function '*'0(22@34"Return type of 'main' is not 'int'290723346#1299#132#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#10#0#10#0#0"0(22@41"Implicit declaration of function 'malloc'290723346#1538#139#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#35#0#35#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'malloc'290723346#1677#161#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#35#0#35#0#0"0(22@41"Implicit declaration of function 'strcpy'290723346#1943#139#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#78#0#78#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'strcpy'290723346#2082#161#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#78#0#78#0#0"0(22@31"Missing terminating ' character290723346#2243#132#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#97#0#97#0#0"0(4@31"Missing terminating ' character290723346#2480#127#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#97#0#97#0#0"0(4@35"Expected expression at end of input290723346#2607#131#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#97#0#97#0#0"0(4@49"Expected declaration or statement at end of input290723346#2738#145#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#97#0#97#0#49"expected declaration or statement at end of input0(22@19"Unused variable 'k'290723346#2883#117#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#95#0#95#0#19"unused variable '*'0(22@19"Unused variable 'j'290723346#3000#117#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#95#0#95#0#19"unused variable '*'0(22@40"Control reaches end of non-void function290723346#3117#138#0(6@83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c290723345#97#0#97#0#40"control reaches end of non-void function0(0#0#83"/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c5279115081922475008#1670"    cd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Debug/a4test.build/a4test-generated-files.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Debug/a4test.build/a4test-own-target-headers.hmap -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Debug/a4test.build/a4test-all-target-headers.hmap -iquote /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Debug/a4test.build/a4test-project-headers.hmap -F/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Debug -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Debug/include -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Debug/a4test.build/DerivedSources/x86_64 -I/Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Debug/a4test.build/DerivedSources -c /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/main.c -o /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/a4test.build/Debug/a4test.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/juniorsamaroo/Documents/Classes/semester2/CIS_2500/assignments/a4test/build/Debug/a4test normal x86_64
+r0
+

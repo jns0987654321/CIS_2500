@@ -1,0 +1,70 @@
+Tlab2
+v7
+r0
+t285554314.271502
+cCheck dependencies
+cCompileC build/lab2.build/Debug/lab2.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug/lab2" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug/lab2
+t1263861514
+s9208
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/Objects-normal/x86_64/lab2.LinkFileList
+c000000004B54FF090000000000000086
+t1263861513
+s134
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/Objects-normal/x86_64/main.o
+t1263861513
+s3188
+
+N/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c
+c000000004B54FF0900000000000000E6
+t1263861513
+s230
+i<stdio.h>
+i<math.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies285554313#285554313#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/lab2.build/Debug/lab2.build/Objects-normal/x86_64/main.o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s285554313.546455
+e285554313.622903
+r1
+xCompileC
+xbuild/lab2.build/Debug/lab2.build/Objects-normal/x86_64/main.o
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c285554313#285554313#0(214"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c: In function 'main':/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c:10: warning: unused variable 'array'1(22@23"Unused variable 'array'285554313#99#115#0(6@77"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c285554313#10#0#10#0#19"unused variable '*'0(0#0#77"/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c3917909816998063104#1590"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/lab2-generated-files.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/lab2-own-target-headers.hmap" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/lab2-all-target-headers.hmap" -iquote "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/lab2-project-headers.hmap" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug/include" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/DerivedSources/x86_64" "-I/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/DerivedSources" -c "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/main.c" -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug/lab2" normal x86_64
+s285554313.622990
+e285554314.271438
+r1
+xLd
+x/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug/lab2
+xnormal
+xx86_64
+lSLF07#2@92"Link /Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug/lab2285554313#285554314#0(0"0(0#0#0"4300885448#656"    cd "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug" "-F/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug" -filelist "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/lab2.build/Debug/lab2.build/Objects-normal/x86_64/lab2.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/juniorsamaroo/Documents/Classes/2nd semester/CIS 2500/labs/lab2/build/Debug/lab2"0#
+
